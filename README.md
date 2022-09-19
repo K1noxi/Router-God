@@ -17,3 +17,4 @@ IpTV-off(useless)if TV is lagging on it
 V1 version later will be more
 Advertise-try to update routers system version
 Clear page file
+V2 version will realease 21.09.2022
