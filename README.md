@@ -17,4 +17,8 @@ IpTV-off(useless)if TV is lagging on it
 V1 version later will be more
 Advertise-try to update routers system version
 Clear page file
-V2 version will realease 21.09.2022
+V2 version
+Force 5ghz
+Test your canals or set last one cuz a lot of in auto sets at 44/40 canals
+Deepth of canals test 40/20 if u are in home where arent a lot of people force 40 or test
+
